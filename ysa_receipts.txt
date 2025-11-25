@@ -1,0 +1,16 @@
+
+--- ATM RECEIPT ---
+Client: ysa
+Date & Time: 2025-11-25 18:28:05
+Transaction Type: Deposit
+Amount: ₱100.00
+New Balance: ₱100.00
+--------------------
+
+--- ATM RECEIPT ---
+Client: ysa
+Date & Time: 2025-11-25 18:28:11
+Transaction Type: Withdrawal
+Amount: ₱100.00
+New Balance: ₱0.00
+--------------------
